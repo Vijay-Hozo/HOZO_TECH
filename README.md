@@ -1,1 +1,3 @@
 # OCTANET_SEPTEMBER
+
+Hozo tech is a tech solution website of my creativity includes some detailed info about tech...
