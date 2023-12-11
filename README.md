@@ -1,3 +1,13 @@
-# OCTANET_SEPTEMBER
+# Hozo Tech - Web Design Project
 
-Hozo tech is a tech solution website of my creativity includes some detailed info about tech...
+## Overview
+
+Hozo Tech is a web design project aimed at creating a modern and user-friendly website for a technology company named Hozo Tech. This project utilizes HTML and CSS to implement a clean and visually appealing design.
+
+## Project Structure
+
+The project follows a standard web design :
+
+**HTML**
+**CSS**
+
